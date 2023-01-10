@@ -7,3 +7,4 @@ https://www.kaggle.com/code/uttam94/uber-ride-data-analysis/notebook<br>
 https://www.kaggle.com/code/vishnu0399/uber-stock-data-time-series-analysis<br>
 https://www.kaggle.com/code/neilmccouley/fast-food-restaurants-market-analysis
 https://www.kaggle.com/code/nehaprabhavalkar/indian-cuisine-analysis/comments
+https://github.com/zaidjamal-op/UBER-data-analysis-machine-learning-/blob/main/Uber%20data%20analysis/UBER%20Data%20analysis.ipynb <br>
