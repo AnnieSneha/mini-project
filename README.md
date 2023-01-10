@@ -5,6 +5,7 @@ https://www.kaggle.com/code/spoorthisuvarna/uber-data-analysis/edit<br>
 https://www.kaggle.com/code/mohamed08/exploratory-data-analysis-for-uber-trips/notebook<br>
 https://www.kaggle.com/code/uttam94/uber-ride-data-analysis/notebook<br>
 https://www.kaggle.com/code/vishnu0399/uber-stock-data-time-series-analysis<br>
-https://www.kaggle.com/code/neilmccouley/fast-food-restaurants-market-analysis
-https://www.kaggle.com/code/nehaprabhavalkar/indian-cuisine-analysis/comments
+https://www.kaggle.com/code/neilmccouley/fast-food-restaurants-market-analysis<br>
+https://www.kaggle.com/code/nehaprabhavalkar/indian-cuisine-analysis/comments<br>
 https://github.com/zaidjamal-op/UBER-data-analysis-machine-learning-/blob/main/Uber%20data%20analysis/UBER%20Data%20analysis.ipynb <br>
+https://github.com/rajkrishna92/Machine-Leaning-projects-for-beginners<br>
