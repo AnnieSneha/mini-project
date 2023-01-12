@@ -13,3 +13,4 @@ https://github.com/rajkrishna92/Machine-Leaning-projects-for-beginners<br>
 
 
 https://colab.research.google.com/drive/1igWmyXur60I_etxsf6N7jV8PTbQou5BU?usp=sharing#scrollTo=SbwxbVDUkUR6 >>>imp <br>
+https://www.youtube.com/watch?v=ZD27QTvSbTY&t=1351s <br> >>>>>
